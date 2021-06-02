@@ -1,0 +1,2 @@
+::ffff:127.0.0.1 - - [22/May/2021:06:48:11 +0000] "GET / HTTP/1.1" 200 170 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+::ffff:127.0.0.1 - - [22/May/2021:06:48:12 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://127.0.0.1:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"

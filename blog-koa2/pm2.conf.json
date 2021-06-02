@@ -1,0 +1,15 @@
+{
+  "apps": {
+    "name": "blog-koa2",
+    "script": "bin/www",
+    "watch": true,
+    "ignore_watch": [
+      "node_modules",
+      "logs"
+    ],
+    "instances": 2,
+    "error_files": "logs/err.log",
+    "out_file": "logs/out.log",
+    "log_date_format": "YYYY-MM-DD HH:mm:ss"
+  }
+}
